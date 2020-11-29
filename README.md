@@ -1,1 +1,1 @@
-This File is a privacy policy for my app.
+This Repo hosts the privacy policy for my app.
